@@ -1,4 +1,4 @@
-package vehiculos;
+package vehiculo;
 import java.util.ArrayList;
 import vehiculos.Vehiculo;
 
@@ -28,7 +28,7 @@ public class Fabricante {
     }
 
     public void setPais(Pais pais) {
-        this.pais = pais;
+        this.pais =pais;
     }
 
     public static ArrayList<Fabricante> getListado() {

@@ -1,4 +1,4 @@
-package vehiculos;
+package vehiculo;
 
 public class Pais {
 
